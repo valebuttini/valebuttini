@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**valebuttini/valebuttini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭Busco trabajar en equipo.
 - 🌱 Soy Desarrollador web y actualmente estoy cursando la carrera de Frontend en CoderHouse.
